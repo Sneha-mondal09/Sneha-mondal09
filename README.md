@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sneha Mondal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align"right" alt="coding" width"400" src="![image](https://github.com/user-attachments/assets/70381e2b-a7de-4988-83b7-2abd9ac3fda8)">
+<img align"right" alt="coding" width"400" src="![image](https://github.com/user-attachments/assets/aa381519-8343-41ba-99bc-369612c3c1bd)">
+
 
 
 
