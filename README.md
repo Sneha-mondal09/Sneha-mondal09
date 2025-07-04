@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sneha Mondal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+ 🔭 I’m currently working on **Web developement Project**
+
+- 🌱 I’m currently learning **Full Stack Developing**
+
+- 💬 Ask me about **Frontend Development**
+
+- 📫 How to reach me **snehamondal285@gmail.com**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sneha Mondal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehamondal285@gmail.com) 
