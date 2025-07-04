@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sneha Mondal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fontend developer from India</h3>
+<img align="right"alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
-<img align="right"alt="coding"width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"
-
-
-
-
- 🔭 I’m currently working on **Web developement Project**
-
-- 🌱 I’m currently learning **Full Stack Developing**
-
-- 💬 Ask me about **Frontend Development**
-
-- 📫 How to reach me **snehamondal285@gmail.com**
-
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on Full-Stack web development projects<br>🤝 I’m looking for help with improving my backend architecture, API design, and deploying web apps to production.<br>🌱 I’m currently learning Full-Stack Web Development including PHP, JavaScript, Node.js, MySQL, and Tailwind CSS.<br>💬 Ask me about  building dynamic web apps, handling user authentication, or designing responsive layouts with Tailwind CSS.<br>⚡ Fun fact
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on Full-Stack web development projects<br>🤝 I’m looking for help with improving my backend architecture, API design, and deploying web apps to production.<br>🌱 I’m currently learning Full-Stack Web Development including PHP, JavaScript, Node.js, MySQL, and Tailwind CSS.<br>💬 Ask me about  building dynamic web apps, handling user authentication, or designing responsive layouts with Tailwind CSS.<br>⚡ Fun fact I enjoy turning complex requirements into simple, clean, and functional web interfaces!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sneha Mondal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehamondal285@gmail.com) 
