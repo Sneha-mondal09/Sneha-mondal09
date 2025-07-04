@@ -4,8 +4,8 @@
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on Full-Stack web development projects<br>🤝 I’m looking for help with improving my frontend architecture, optimizing UI/UX design, and deploying responsive, performant web apps to production.
-
-<br>🌱 I’m currently learning Full-Stack Web Development including PHP, JavaScript, Node.js, MySQL, and Tailwind CSS.<br>💬 Ask me about  building dynamic web apps, handling user authentication, or designing responsive layouts with Tailwind CSS.<br>⚡ Fun fact
+<br>🌱 I’m currently learning Frontend Web Development with JavaScript & Tailwind CSS, plus basics of PHP, Node.js & MySQL.
+<br>💬 Ask me about  building dynamic web apps, handling user authentication, or designing responsive layouts with Tailwind CSS.<br>⚡ Fun fact
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on Full-Stack web development projects<br>🤝 I’m looking for help with improving my backend architecture, API design, and deploying web apps to production.<br>🌱 I’m currently learning Full-Stack Web Development including PHP, JavaScript, Node.js, MySQL, and Tailwind CSS.<br>💬 Ask me about  building dynamic web apps, handling user authentication, or designing responsive layouts with Tailwind CSS.<br>⚡ Fun fact I enjoy turning complex requirements into simple, clean, and functional web interfaces!
 
 ## 🌐 Socials:
